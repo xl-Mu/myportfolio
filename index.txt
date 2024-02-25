@@ -1,10 +1,10 @@
-vCard - Personal Portfolio
+Muzi - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Xu Muzi
+Xu Muzi
+Data Analyst
 
 Show Contacts
 
