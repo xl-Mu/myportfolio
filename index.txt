@@ -4,9 +4,7 @@ Muzi - Personal Portfolio
 
 alt = Xu Muzi
 Xu Muzi
-Data Analyst
-AI Engineer
-Designer
+Data Analyst / AI Engineer / Designer
 
 Show Contacts
 
